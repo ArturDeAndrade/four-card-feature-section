@@ -1,0 +1,36 @@
+:root {
+  --red: hsl(0, 78%, 62%);
+  --cyan: hsl(180, 62%, 55%);
+  --orange: hsl(34, 97%, 64%);
+  --blue: hsl(212, 86%, 64%);
+
+  --darkblue: hsl(234, 12%, 34%);
+  --grayishblue: hsl(229, 6%, 66%);
+  --lightgray: hsl(0, 0%, 98%);
+
+  font-size: 15px;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 400;
+}
+
+.font-200 {
+  font-weight: 200;
+}
+
+.font-600 {
+  font-weight: 600;
+}
+
+.card {
+  width: 325px;
+  height: 250px;
+}
+
+.attribution {
+  font-size: 11px;
+  text-align: center;
+}
+
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
